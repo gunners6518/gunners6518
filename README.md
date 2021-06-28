@@ -14,10 +14,10 @@ frontend developer from Japan
     <img height="20" src="https://img.shields.io/github/followers/gunners6518?label=follow&logo=github&style=flat" />
   </a>
   
-  
-[![My Qiita posts](https://qiita-badge.apiapi.app/s/terry_6518/posts.svg)](http://qiita.com/terry_6518)
+[![My Qiita posts](https://qiita-badge.apiapi.app/s/terry_6518/posts.svg)](http://qiita.com/terry_6518) 
 [![My Qiita contributions](https://qiita-badge.apiapi.app/s/terry_6518/contributions.svg)](http://qiita.com/terry_6518)
 [![My Qiita followers](https://qiita-badge.apiapi.app/s/terry_6518/followers.svg)](http://qiita.com/terry_6518)
+
 # skill
 <img align="left" alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
 <img  align="left" alt="TypeScript" src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white"/>	
