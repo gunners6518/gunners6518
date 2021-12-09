@@ -14,7 +14,7 @@ frontend developer from Japan
     <img height="20" src="https://img.shields.io/github/followers/gunners6518?label=follow&logo=github&style=flat" />
   </a>
   
-[![My Qiita posts](https://qiita-badge.apiapi.app/sterry_6518/posts.svg)](https://qiita.com/terry_6518) 
+[![My Qiita posts](https://qiita-badge.apiapi.app/terry_6518/posts.svg)](https://qiita.com/terry_6518) 
 [![My Qiita contributions](https://qiita-badge.apiapi.app/s/terry_6518/contributions.svg)](https://qiita.com/terry_6518)
 [![My Qiita followers](https://qiita-badge.apiapi.app/s/terry_6518/followers.svg)](https://qiita.com/terry_6518)
 
