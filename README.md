@@ -15,8 +15,8 @@ frontend developer from Japan
   </a>
   
 [![My Qiita posts](https://qiita-badge.apiapi.app/s/k-fujisawa/posts.svg)](https://qiita.com/terry_6518) 
-[![My Qiita contributions](https://qiita-badge.apiapi.app/s/k-fujisawa/contributions.svg)]https://qiita.com/terry_6518)
-[![My Qiita followers](https://qiita-badge.apiapi.app/s/k-fujisawa/followers.svg)]https://qiita.com/terry_6518)
+[![My Qiita contributions](https://qiita-badge.apiapi.app/s/k-fujisawa/contributions.svg)](https://qiita.com/terry_6518)
+[![My Qiita followers](https://qiita-badge.apiapi.app/s/k-fujisawa/followers.svg)](https://qiita.com/terry_6518)
 
 # skill
 <img align="left" alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
