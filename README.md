@@ -7,8 +7,8 @@ frontend developer from Japan
   <a href="https://github.com/gunners6518/gunners6518/">
     <img src="https://komarev.com/ghpvc/?username=gunners6518" alt="gunners6518" />
   </a>
-    <a href="http://twitter.com/teriteriteriri">
-    <img height="20" src="https://img.shields.io/twitter/follow/teriteriteriri?label=Twitter&logo=twitter&style=flat" />
+    <a href="http://twitter.com/srjs3ekCsLyUchj">
+    <img height="20" src="https://img.shields.io/twitter/follow/srjs3ekCsLyUchj?label=Twitter&logo=twitter&style=flat" />
   </a>
    <a href="https://github.com/gunners6518">
     <img height="20" src="https://img.shields.io/github/followers/gunners6518?label=follow&logo=github&style=flat" />
